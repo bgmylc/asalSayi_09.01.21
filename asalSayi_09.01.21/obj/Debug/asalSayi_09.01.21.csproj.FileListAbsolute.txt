@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\bin\Debug\asalSayi_09.01.21.exe.config
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\bin\Debug\asalSayi_09.01.21.exe
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\bin\Debug\asalSayi_09.01.21.pdb
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\obj\Debug\asalSayi_09.01.21.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\obj\Debug\asalSayi_09.01.21.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\obj\Debug\asalSayi_09.01.21.exe
+C:\Users\LENOVO\source\repos\asalSayi_09.01.21\asalSayi_09.01.21\obj\Debug\asalSayi_09.01.21.pdb
